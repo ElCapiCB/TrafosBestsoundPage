@@ -1,0 +1,6 @@
+@import './base.css';
+
+@font-face {
+    font-family: bukhari-script;
+    src: url(fonts/Bukhari-Script.ttf);
+}
